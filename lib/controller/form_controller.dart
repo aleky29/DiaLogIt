@@ -5,9 +5,9 @@ import '../model/form.dart';
 /// FormController is a class which does work of saving FeedbackForm in Google Sheets using
 /// HTTP GET request on Google App Script Web URL and parses response and sends result callback.
 class FormController {
-  // Google App Script Web URL.
+  // Google App Script Web URL. TO BE FILLED
   static const String URL =
-      "https://script.google.com/macros/s/AKfycbyGsbinbrEnoHBFhbJrlZefC9JcEmumeB1-vdystG5r-4XXLSNZq8wwCQ/exec";
+      "";
 
   // Success Status Message
   static const STATUS_SUCCESS = "SUCCESS";
