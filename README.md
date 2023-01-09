@@ -1,5 +1,5 @@
 DiaLogIt is a personal project for satisfying a specific personal need: to write down glucose levels.
-I decided that this app should write the values into a Google Sheet since ,from there, I can easily then download it to train AIs (Random Forest, SVM...) to then study my glucose's statistics and make decisions for my personal health and well being.
+I decided that this app should write the values into a Google Sheet since, from there, I can easily then download it to process data to then study my glucose's statistics and make decisions for my personal health and well being.
 
 PLEASE NOTE:
 This project was mostly made looking into the article:
